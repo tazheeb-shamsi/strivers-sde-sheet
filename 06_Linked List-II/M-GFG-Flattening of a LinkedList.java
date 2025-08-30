@@ -13,42 +13,37 @@ Note:
 2. The flattened list will be printed using the bottom pointer instead of the next pointer.
 */
 
-class Node {
-
-    int data;
-    Node next;
-    Node bottom;
-
-    Node(int data) {
-        this.data = data;
-        this.next = null;
-        this.bottom = null;
-    }
-}
-
 class Solution {
+    public static class Node {
+        int data;
+        Node next;
+        Node bottom;
+
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+            this.bottom = null;
+        }
+    }
 
     Node flatten(Node head) {
         if (head == null || head.next == null) return head;
 
-        Node next = head.next;
-        Node bottom = head.bottom;
+        // Flatten the next part first
+        head.next = flatten(head.next);
 
-        head.next = null;
-        head.bottom = null;
+        // Merge current list with flattened next list
+        head = merge(head, head.next);
 
-        Node merged = merge(head, bottom);
-        Node flattened = flatten(next);
-
-        return merge(merged, flattened);
+        return head;
     }
 
     Node merge(Node a, Node b) {
         if (a == null) return b;
         if (b == null) return a;
 
-        Node result = new Node(0);
-        Node tail = result;
+        Node dummy = new Node(0);
+        Node tail = dummy;
 
         while (a != null && b != null) {
             if (a.data < b.data) {
@@ -62,7 +57,7 @@ class Solution {
         }
 
         tail.bottom = (a != null) ? a : b;
-        return result.bottom;
+        return dummy.bottom;
     }
 
     public static void main(String[] args) {
@@ -101,3 +96,4 @@ class Solution {
         System.out.println();
     }
 }
+
