@@ -82,7 +82,12 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Trapping Rain Water](07_Linked%20List%20&%20Arrays/H042.%20Trapping%20Rain%20Water.java)
 
 ### Greedy Algorithms
-*Problems to be added*
+1. [Assign Cookies](08_Greedy%20Algorithm/455.%20Assign%20Cookies.java)
+2. [N Meetings in One Room](08_Greedy%20Algorithm/E-GFG-%20n%20Meetings%20in%20One%20Room.java)
+3. [Fractional Knapsack](08_Greedy%20Algorithm/M-GFG-Fractional%20Knapsack.java)
+4. [Job Sequencing Problem](08_Greedy%20Algorithm/M-GFG-Job%20Sequencing%20Problem.java)
+5. [Minimum Coins to Make Sum](08_Greedy%20Algorithm/M-GFG-Minimum%20Coins%20to%20Make%20Sum.java)
+6. [Minimum Platforms](08_Greedy%20Algorithm/M-GFG-Minimum%20Platforms.java)
 
 ### Recursion
 *Problems to be added*
@@ -185,13 +190,14 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 
 ### Completed Sections ✅
 - Arrays I (6/6 problems)
-- Arrays II (6/6 problems)  
+- Arrays II (6/6 problems)
 - Arrays III (6/6 problems)
 - Arrays IV (6/6 problems)
 - Linked List I (6/6 problems)
 - Linked List II (6/6 problems)
 - Linked List & Arrays (6/6 problems)
 - Strings I (1/1 problems)
+- Greedy Algorithms (6/6 problems)
 
 ### In Progress 🔄
 - Strings II
