@@ -90,10 +90,20 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Minimum Platforms](08_Greedy%20Algorithm/M-GFG-Minimum%20Platforms.java)
 
 ### Recursion
-*Problems to be added*
+1. [Subset Sum](09_Recursion/M-GFG-Subset%20Sum.java)
+2. [Combination Sum](09_Recursion/M039.%20Combination%20Sum.java)
+3. [Combination Sum II](09_Recursion/M040.%20Combination%20Sum%20II.java)
+4. [Palindrome Partitioning](09_Recursion/M131.%20Palindrome%20Partitioning.java)
+5. [Subsets II](09_Recursion/M090.%20Subsets%20II.java)
+6. [Permutation Sequence](09_Recursion/H060.%20Permutation%20Sequence.java)
 
 ### Recursion & Backtracking
-*Problems to be added*
+1. [N-Queens](10_Recursion%20&%20Backtracking/H051.%20N-Queens.java)
+2. [Sudoku Solver](10_Recursion%20&%20Backtracking/H037.%20Sudoku%20Solver.java)
+3. [M-Coloring Problem](10_Recursion%20&%20Backtracking/M-GFG-M-Coloring%20Problem.java)
+4. [Rat in a Maze](10_Recursion%20&%20Backtracking/M-GFG-Rat%20in%20a%20Maze.java)
+5. [Word Break (print all ways)](10_Recursion%20&%20Backtracking/M-GFG-Word%20Break%20(print%20all%20ways).java)
+6. [Print all permutations of a string or array](10_Recursion%20&%20Backtracking/M046.Print%20all%20permutations%20of%20a%20string%20or%20array.java)
 
 ### Binary Search
 *Problems to be added*
@@ -199,12 +209,15 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Strings I (1/1 problems)
 - Greedy Algorithms (6/6 problems)
 
+### Completed Sections ✅ (continued)
+- Recursion (6/6 problems)
+- Recursion & Backtracking (6/6 problems)
+
 ### In Progress 🔄
 - Strings II
 - Binary Trees
 - Graphs
 - Dynamic Programming
-- Recursion & Backtracking
 - Binary Search
 - Heaps
 - Stacks & Queues
