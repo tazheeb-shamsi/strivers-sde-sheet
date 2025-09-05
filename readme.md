@@ -106,7 +106,14 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Print all permutations of a string or array](10_Recursion%20&%20Backtracking/M046.Print%20all%20permutations%20of%20a%20string%20or%20array.java)
 
 ### Binary Search
-*Problems to be added*
+1. [Search in Rotated Sorted Array](11_Binary%20Search/M033.%20Search%20in%20Rotated%20Sorted%20Array.java)
+2. [Single Element in a Sorted Array](11_Binary%20Search/M540.%20Single%20Element%20in%20a%20Sorted%20Array.java)
+3. [Find nth root of m](11_Binary%20Search/M-GFG-Find%20nth%20root%20of%20m.java)
+4. [K-th element of two arrays](11_Binary%20Search/M-GFG-K-th%20element%20of%20two%20arrays.java)
+5. [Allocate Books](11_Binary%20Search/M-InterviewBit-Allocate%20Books.java)
+6. [Aggressive Cows](11_Binary%20Search/E-SphereOnlineJudge-Aggressive%20Cows.java)
+7. [Matrix Median](11_Binary%20Search/H-GFG-Matrix%20Median.java)
+8. [Median of 2 sorted arrays](11_Binary%20Search/H004.Median%20of%202%20sorted%20arrays.java)
 
 ### Heaps
 *Problems to be added*
@@ -206,19 +213,18 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Linked List I (6/6 problems)
 - Linked List II (6/6 problems)
 - Linked List & Arrays (6/6 problems)
-- Strings I (1/1 problems)
+- Strings I (1/6 problems)
 - Greedy Algorithms (6/6 problems)
-
-### Completed Sections ✅ (continued)
 - Recursion (6/6 problems)
 - Recursion & Backtracking (6/6 problems)
+- Binary Search (8/8 problems)
 
 ### In Progress 🔄
+- Strings I
 - Strings II
 - Binary Trees
 - Graphs
 - Dynamic Programming
-- Binary Search
 - Heaps
 - Stacks & Queues
 - Trie
