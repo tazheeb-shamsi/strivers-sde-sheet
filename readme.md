@@ -116,7 +116,13 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 8. [Median of 2 sorted arrays](11_Binary%20Search/H004.Median%20of%202%20sorted%20arrays.java)
 
 ### Heaps
-*Problems to be added*
+1. [Kth Largest Element in an Array](12_Heaps/M215.%20Kth%20Largest%20Element%20in%20an%20Array.java)
+2. [Top K Frequent Elements](12_Heaps/M347.%20Top%20K%20Frequent%20Elements.java)
+3. [Find Median from Data Stream](12_Heaps/H-295.%20Find%20Median%20from%20Data%20Stream.java)
+4. [Max heap - Min Heap Implementation](12_Heaps/M-CodingNinja-Max%20heap%20-%20Min%20Heap%20Implementation.java)
+5. [Merge K sorted arrays](12_Heaps/M-CodingNinja-Merge%20K%20sorted%20arrays.java)
+6. [Maximum Sum Combination](12_Heaps/M-InterviewBit-Maximum%20Sum%20Combination.java)
+
 
 ### Stacks and Queues - I
 *Problems to be added*
@@ -218,15 +224,23 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Recursion (6/6 problems)
 - Recursion & Backtracking (6/6 problems)
 - Binary Search (8/8 problems)
+- Heaps (6/6 problems)
 
 ### In Progress 🔄
+- Stacks & Queue I
+- Stacks & Queue II
 - Strings I
 - Strings II
-- Binary Trees
-- Graphs
+- Binary Tree I
+- Binary Tree II
+- Binary Tree III
+- Binary Search Tree I
+- Binary Search Tree II
+- Binary Search Tree III
+- Graph
+- Graph II
 - Dynamic Programming
-- Heaps
-- Stacks & Queues
+- Dynamic Programming II
 - Trie
 
 ## License
