@@ -5,19 +5,32 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 ## Table of Contents
 
 - [Problem Set](#problem-set)
-  - [Arrays](#arrays)
-  - [Linked Lists](#linked-lists)
+  - [Arrays - I](#arrays---I)
+  - [Arrays - II](#arrays---II)
+  - [Arrays - III](#arrays---III)
+  - [Arrays - IV](#arrays---IV)
+  - [Linked List - I](#linked-list---I)
+  - [Linked List - II](#linked-list---II)
   - [Linked List & Arrays](#linked-list--arrays)
-  - [Strings](#strings)
-  - [Trees](#trees)
-  - [Graphs](#graphs)
-  - [Dynamic Programming](#dynamic-programming)
+  - [Greedy Algorithms](#greedy-algorithms)
   - [Recursion](#recursion)
-  - [Backtracking](#backtracking)
+  - [Recursion & Backtracking](#recursion--backtracking)
   - [Binary Search](#binary-search)
   - [Heaps](#heaps)
-  - [Greedy Algorithms](#greedy-algorithms)
-  - [Stacks and Queues](#stacks-and-queues)
+  - [Stacks and Queues - I](#stacks-and-queues---I)
+  - [Stacks and Queues - II](#stacks-and-queues---II)
+  - [Strings - I](#strings---I)
+  - [Strings - II](#strings---II)
+  - [Binary Trees - I](#binary-trees---I)
+  - [Binary Trees - II](#binary-trees---II)
+  - [Binary Trees - III](#binary-trees---III)
+  - [Binary Search Trees - I](#binary-search-trees---I)
+  - [Binary Search Trees - II](#binary-search-trees---II)
+  - [Binary Search Trees - III](#binary-search-trees---III)
+  - [Graphs - I](#graphs---I)
+  - [Graphs - II](#graphs---II)
+  - [Dynamic Programming - I](#dynamic-programming---I)
+  - [Dynamic Programming - II](#dynamic-programming---II)
   - [Trie](#trie)
 - [How to Contribute](#how-to-contribute)
 - [Usage](#usage)
@@ -125,7 +138,14 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 
 
 ### Stacks and Queues - I
-*Problems to be added*
+1. [Valid Parentheses](13_Stack%20&%20Queue/E20.%20Valid%20Parentheses.java)
+2. [Implement Stack using Arrays](13_Stack%20&%20Queue/E-TUF-Implement%20Stack%20using%20Arrays.java)
+3. [Implement Queue using Arrays](13_Stack%20&%20Queue/E-TUF-Implement%20Queue%20using%20Arrays.java)
+4. [Implement Stack using Queues](13_Stack%20&%20Queue/E225.%20Implement%20Stack%20using%20Queues.java)
+5. [Implement Queue using Stacks](13_Stack%20&%20Queue/E232.%20Implement%20Queue%20using%20Stacks.java)
+6. [Next Greater Element I](13_Stack%20&%20Queue/E496.%20Next%20Greater%20Element%20I.java)
+7. [Sort a Stack](13_Stack%20&%20Queue/E-TUF-Sort%20a%20Stack.java)
+
 
 ### Stacks and Queues - II
 *Problems to be added*
@@ -225,9 +245,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Recursion & Backtracking (6/6 problems)
 - Binary Search (8/8 problems)
 - Heaps (6/6 problems)
+- Stacks & Queues I (7/7 problems)
 
 ### In Progress 🔄
-- Stacks & Queue I
 - Stacks & Queue II
 - Strings I
 - Strings II
