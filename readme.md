@@ -203,7 +203,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 1. **Fork this repository**: Create a copy of the repository under your GitHub account.
 2. **Create a new branch**: From the main branch, create a new branch for your contribution.
    ```bash
-   git checkout -b feature/solve-problem
+   git checkout -b feature/new-problem
    ```
 
 3. **Solve a problem**: Choose a problem, solve it, and create a Java file in the respective folder. The file should contain the following:
