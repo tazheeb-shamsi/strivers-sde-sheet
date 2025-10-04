@@ -148,7 +148,16 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 
 
 ### Stacks and Queues - II
-*Problems to be added*
+1. [Min Stack](14_Stack%20&%20Queue-II/M155.%20Min%20Stack.java)
+2. [LRU Cache](14_Stack%20&%20Queue-II/M146.%20LRU%20Cache.java)
+3. [Online Stock Span](14_Stack%20&%20Queue-II/M901.%20Online%20Stock%20Span.java)
+4. [Rotting Oranges](14_Stack%20&%20Queue-II/M994.%20Rotting%20Oranges.java)
+5. [Largest Rectangle in Histogram](14_Stack%20&%20Queue-II/H084.%20Largest%20Rectangle%20in%20Histogram.java)
+6. [Sliding Window Maximum](14_Stack%20&%20Queue-II/H239.%20Sliding%20Window%20Maximum.java)
+7. [LFU Cache](14_Stack%20&%20Queue-II/H460.%20LFU%20Cache.java)
+8. [Next Smaller Element](14_Stack%20&%20Queue-II/E-InterviewBit-Next%20Smaller%20Element.java)
+9. [The Celebrity Problem](14_Stack%20&%20Queue-II/H-TUF-The%20Celebrity%20Problem.java)
+10. [Maximum of Minimums for Every Window Size](14_Stack%20&%20Queue-II/H-TUF-Maximum%20of%20Minimums%20for%20Every%20Window%20Size.java)
 
 ### Strings - I
 1. [Reverse Words in a String](15_String-I/151.%20Reverse%20Words%20in%20a%20String.java)
@@ -246,9 +255,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Search (8/8 problems)
 - Heaps (6/6 problems)
 - Stacks & Queues I (7/7 problems)
+- Stacks & Queues II (10/10 problems)
 
 ### In Progress 🔄
-- Stacks & Queue II
 - Strings I
 - Strings II
 - Binary Tree I
