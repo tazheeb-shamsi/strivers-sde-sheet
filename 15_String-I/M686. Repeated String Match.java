@@ -18,4 +18,12 @@ class Solution {
 
         return -1;
     }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        String a = "abcd";
+        String b = "cdabcdab";
+        int result = solution.repeatedStringMatch(a, b);
+        System.out.println(result);
+    }
 }
