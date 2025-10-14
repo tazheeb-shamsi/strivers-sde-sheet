@@ -160,7 +160,12 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 10. [Maximum of Minimums for Every Window Size](14_Stack%20&%20Queue-II/H-TUF-Maximum%20of%20Minimums%20for%20Every%20Window%20Size.java)
 
 ### Strings - I
-1. [Reverse Words in a String](15_String-I/151.%20Reverse%20Words%20in%20a%20String.java)
+1. [Roman Number to Integer and vice versa](15_String-I/E013.Roman%20Number%20to%20Integer%20and%20vice%20versa.java)
+2. [Longest Common Prefix](15_String-I/E014.%20Longest%20Common%20Prefix.java)
+3. [Longest Palindromic Substring](15_String-I/M005.%20Longest%20Palindromic%20Substring.java)
+4. [String to Integer](15_String-I/M008.String%20to%20Integer.java)
+5. [Reverse Words in a String](15_String-I/M151.%20Reverse%20Words%20in%20a%20String.java)
+6. [Repeated String Match](15_String-I/M686.%20Repeated%20String%20Match.java)
 
 ### Strings - II
 *Problems to be added*
@@ -256,9 +261,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Heaps (6/6 problems)
 - Stacks & Queues I (7/7 problems)
 - Stacks & Queues II (10/10 problems)
+- Strings I (6/6 problems)
 
 ### In Progress 🔄
-- Strings I
 - Strings II
 - Binary Tree I
 - Binary Tree II
