@@ -168,7 +168,12 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Repeated String Match](15_String-I/M686.%20Repeated%20String%20Match.java)
 
 ### Strings - II
-*Problems to be added*
+1. [Find the Index of the First Occurrence in a String](16_String-II/E028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.java)
+2. [Count and Say](16_String-II/M038.%20Count%20and%20Say.java)
+3. [Compare Version Numbers](16_String-II/M165.%20Compare%20Version%20Numbers.java)
+4. [Valid Anagram](16_String-II/E242.%20Valid%20Anagram.java)
+5. [Minimum Characters required to make a String Palindromic](16_String-II/M-InterviewBit-Minimum%20Characters%20required%20to%20make%20a%20String%20Palindromic.java)
+6. [KMP Algorithm or LPS array](16_String-II/H-TUF-KMP%20Algorithm%20or%20LPS%20array.java)
 
 ### Binary Trees - I
 *Problems to be added*
@@ -262,9 +267,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Stacks & Queues I (7/7 problems)
 - Stacks & Queues II (10/10 problems)
 - Strings I (6/6 problems)
+- Strings II (6/6 problems)
 
 ### In Progress 🔄
-- Strings II
 - Binary Tree I
 - Binary Tree II
 - Binary Tree III
