@@ -191,7 +191,14 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 13. [Print root to node path](17_Binary%20Tree/H-TUF-Print%20root%20to%20node%20path.java)
 
 ### Binary Trees - II
-*Problems to be added*
+1. [Same Tree](18_Binary%20Tree-II/E100.%20Same%20Tree.java)
+2. [Binary Tree Level Order Traversal](18_Binary%20Tree-II/M102.%20Binary%20Tree%20Level%20Order%20Traversal.java)
+3. [Binary Tree Zigzag Level Order Traversal](18_Binary%20Tree-II/M103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.java)
+4. [Maximum Depth of Binary Tree](18_Binary%20Tree-II/E104.%20Maximum%20Depth%20of%20Binary%20Tree.java)
+5. [Balanced Binary Tree](18_Binary%20Tree-II/E110.%20Balanced%20Binary%20Tree.java)
+6. [Lowest Common Ancestor of a Binary Tree](18_Binary%20Tree-II/M236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)
+7. [Diameter of Binary Tree](18_Binary%20Tree-II/E543.%20Diameter%20of%20Binary%20Tree.java)
+8. [Boundary Traversal of Binary Tree](18_Binary%20Tree-II/M545.%20Boundary%20Traversal%20of%20Binary%20Tree.java)
 
 ### Binary Trees - III
 *Problems to be added*
@@ -281,9 +288,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Strings I (6/6 problems)
 - Strings II (6/6 problems)
 - Binary Tree I (13/13 problems)
+- Binary Tree II (8/8 problems)
 
 ### In Progress 🔄
-- Binary Tree II
 - Binary Tree III
 - Binary Search Tree I
 - Binary Search Tree II
