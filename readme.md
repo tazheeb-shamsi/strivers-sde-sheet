@@ -201,7 +201,13 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 8. [Boundary Traversal of Binary Tree](18_Binary%20Tree-II/M545.%20Boundary%20Traversal%20of%20Binary%20Tree.java)
 
 ### Binary Trees - III
-*Problems to be added*
+1. [Symmetric Tree](19_Binary%20Tree-III/E101.%20Symmetric%20Tree.java)
+2. [Construct Binary Tree from Preorder and Inorder Traversal](19_Binary%20Tree-III/M105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.java)
+3. [Construct Binary Tree from Inorder and Postorder Traversal](19_Binary%20Tree-III/M106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java)
+4. [Flatten Binary Tree to Linked List](19_Binary%20Tree-III/M114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.java)
+5. [Binary Tree Maximum Path Sum](19_Binary%20Tree-III/H124.%20Binary%20Tree%20Maximum%20Path%20Sum.java)
+6. [Children Sum Property in Binary Tree](19_Binary%20Tree-III/M-TUF-Children%20Sum%20Property%20in%20Binary%20Tree.java)
+7. [Mirror Tree](19_Binary%20Tree-III/M-TUF-Mirror%20Tree.java)
 
 ### Binary Search Trees - I
 *Problems to be added*
@@ -289,9 +295,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Strings II (6/6 problems)
 - Binary Tree I (13/13 problems)
 - Binary Tree II (8/8 problems)
+- Binary Tree III (7/7 problems)
 
 ### In Progress 🔄
-- Binary Tree III
 - Binary Search Tree I
 - Binary Search Tree II
 - Binary Search Tree III
