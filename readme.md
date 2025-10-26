@@ -176,7 +176,19 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [KMP Algorithm or LPS array](16_String-II/H-TUF-KMP%20Algorithm%20or%20LPS%20array.java)
 
 ### Binary Trees - I
-*Problems to be added*
+1. [Inorder Traversal](17_Binary%20Tree/E094.%20Inorder%20Traversal.java)
+2. [Preorder Traversal](17_Binary%20Tree/E144.%20Preorder%20Traversal.java)
+3. [Postorder Traversal](17_Binary%20Tree/E145.%20Postorder%20Traversal.java)
+4. [Morris - Inorder Traversal](17_Binary%20Tree/E094.%20Morris%20-%20Inorder%20Traversal.java)
+5. [Morris - Preorder Traversal](17_Binary%20Tree/E-TUF-Morris-Preorder%20Traversal.java)
+6. [Left view of Binary Tree](17_Binary%20Tree/M-TUF-Left%20view%20of%20Binary%20Tree.java)
+7. [Right view of Binary Tree](17_Binary%20Tree/M-TUF-Right%20view%20of%20Binary%20Tree.java)
+8. [Top view of Binary Tree](17_Binary%20Tree/M-TUF-Top%20view%20of%20Binary%20Tree.java)
+9. [Bottom view of Binary Tree](17_Binary%20Tree/M-TUF-Bottom%20view%20of%20Binary%20Tree.java)
+10. [Vertical order traversal](17_Binary%20Tree/H987.%20Vertical%20order%20traversal.java)
+11. [Maximum Width of Binary Tree](17_Binary%20Tree/M.662.%20Maximum%20Width%20of%20Binary%20Tree.java)
+12. [Preorder inorder postorder in a single traversal](17_Binary%20Tree/M-TUF-Preorder%20inorder%20postorder%20in%20a%20single%20traversal.java)
+13. [Print root to node path](17_Binary%20Tree/H-TUF-Print%20root%20to%20node%20path.java)
 
 ### Binary Trees - II
 *Problems to be added*
@@ -268,9 +280,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Stacks & Queues II (10/10 problems)
 - Strings I (6/6 problems)
 - Strings II (6/6 problems)
+- Binary Tree I (13/13 problems)
 
 ### In Progress 🔄
-- Binary Tree I
 - Binary Tree II
 - Binary Tree III
 - Binary Search Tree I
