@@ -26,7 +26,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
   - [Binary Trees - III](#binary-trees---III)
   - [Binary Search Trees - I](#binary-search-trees---I)
   - [Binary Search Trees - II](#binary-search-trees---II)
-  - [Binary Search Trees - III (Miscellaneous)](#binary-search-trees---III-miscellaneous)
+  - [Binary Trees (Miscellaneous)](#binary-trees-miscellaneous)
   - [Graphs - I](#graphs---I)
   - [Graphs - II](#graphs---II)
   - [Dynamic Programming - I](#dynamic-programming---I)
@@ -209,19 +209,19 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Children Sum Property in Binary Tree](19_Binary%20Tree-III/M-TUF-Children%20Sum%20Property%20in%20Binary%20Tree.java)
 7. [Mirror Tree](19_Binary%20Tree-III/M-TUF-Mirror%20Tree.java)
 
-### Binary Search Trees - I
-*Problems to be added*
-
-### Binary Search Trees - II
-*Problems to be added*
-
-### Binary Search Trees - III (Miscellaneous)
+### Binary Trees (Miscellaneous)
 1. [Kth Largest Element in an Array](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M215.%20Kth%20Largest%20Element%20in%20an%20Array.java)
 2. [Find Median from Data Stream](22_Binary%20Search%20Tree-III%20(Miscellaneous)/H295.%20Find%20Median%20from%20Data%20Stream.java)
 3. [Kth Largest Element in a Stream](22_Binary%20Search%20Tree-III%20(Miscellaneous)/E703.%20Kth%20Largest%20Element%20in%20a%20Stream.java)
 4. [Flood Fill Algorithm](22_Binary%20Search%20Tree-III%20(Miscellaneous)/E733.%20Flood%20Fill%20Algorithm.java)
 5. [Flatten Binary Tree to Linked List](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.java)
 6. [Distinct Numbers in Window](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M-InterviewBit-Distinct%20Numbers%20in%20Window.java)
+
+### Binary Search Trees - I
+*Problems to be added*
+
+### Binary Search Trees - II
+*Problems to be added*
 
 ### Graphs - I
 *Problems to be added*
@@ -301,7 +301,7 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Tree I (13/13 problems)
 - Binary Tree II (8/8 problems)
 - Binary Tree III (7/7 problems)
-- Binary Search Tree III (6/6 problems)
+- Binary Tree (Miscellaneous)(6/6 problems)
 
 ### In Progress 🔄
 - Binary Search Tree I
