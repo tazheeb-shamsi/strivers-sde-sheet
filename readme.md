@@ -218,7 +218,13 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Distinct Numbers in Window](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M-InterviewBit-Distinct%20Numbers%20in%20Window.java)
 
 ### Binary Search Trees - I
-*Problems to be added*
+1. [Search in a Binary Search Tree](21_Binary%20Search%20Tree-I/E700.%20Search%20in%20a%20Binary%20Search%20Tree.java)
+2. [Convert Sorted Array to Binary Search Tree](21_Binary%20Search%20Tree-I/E108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.java)
+3. [Validate Binary Search Tree](21_Binary%20Search%20Tree-I/M098.%20Validate%20Binary%20Search%20Tree.java)
+4. [Lowest Common Ancestor of a Binary Search Tree](21_Binary%20Search%20Tree-I/M235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)
+5. [Construct Binary Search Tree from Preorder Traversal](21_Binary%20Search%20Tree-I/M1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.java)
+6. [Populating Next Right Pointers in Each Node](21_Binary%20Search%20Tree-I/M116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java)
+7. [Inorder successor and predecessor in BST](21_Binary%20Search%20Tree-I/M-TUF-Inorder%20successor%20and%20predecessor%20in%20BST.java)
 
 ### Binary Search Trees - II
 *Problems to be added*
@@ -302,9 +308,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Tree II (8/8 problems)
 - Binary Tree III (7/7 problems)
 - Binary Tree (Miscellaneous)(6/6 problems)
+- Binary Search Tree I (7/7 problems)
 
 ### In Progress 🔄
-- Binary Search Tree I
 - Binary Search Tree II
 - Graph
 - Graph II
