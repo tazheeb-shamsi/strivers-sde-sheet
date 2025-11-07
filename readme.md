@@ -227,7 +227,13 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 7. [Inorder successor and predecessor in BST](21_Binary%20Search%20Tree-I/M-TUF-Inorder%20successor%20and%20predecessor%20in%20BST.java)
 
 ### Binary Search Trees - II
-*Problems to be added*
+1. [Two Sum IV - Input is a BST](22_Binary%20Search%20Tree-II/E653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.java)
+2. [Floor and Ceil in a BST](22_Binary%20Search%20Tree-II/E-TUF-Floor%20and%20Ceil%20in%20a%20BST.java)
+3. [Kth Smallest Element in a BST](22_Binary%20Search%20Tree-II/M230.%20Kth%20Smallest%20Element%20in%20a%20BST.java)
+4. [Binary Search Tree Iterator](22_Binary%20Search%20Tree-II/M173.%20Binary%20Search%20Tree%20Iterator.java)
+5. [Find K-th largest & smallest element in BST](22_Binary%20Search%20Tree-II/M-TUF-Find%20K-th%20largest%20&%20smallest%20element%20in%20BST.java)
+6. [Serialize and Deserialize Binary Tree](22_Binary%20Search%20Tree-II/H297.%20Serialize%20and%20Deserialize%20Binary%20Tree.java)
+7. [Maximum Sum BST in Binary Tree](22_Binary%20Search%20Tree-II/H1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)
 
 ### Graphs - I
 *Problems to be added*
@@ -309,9 +315,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Tree III (7/7 problems)
 - Binary Tree (Miscellaneous)(6/6 problems)
 - Binary Search Tree I (7/7 problems)
+- Binary Search Tree II (7/7 problems)
 
 ### In Progress 🔄
-- Binary Search Tree II
 - Graph
 - Graph II
 - Dynamic Programming
