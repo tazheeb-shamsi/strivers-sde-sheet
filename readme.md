@@ -236,7 +236,15 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 7. [Maximum Sum BST in Binary Tree](22_Binary%20Search%20Tree-II/H1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)
 
 ### Graphs - I
-*Problems to be added*
+1. [BFS & DFS Traversal Techniques](23_Graph/E-TUF-BFS%20&%20DFS%20Traversal%20Techniques.java)
+2. [Clone Graph](23_Graph/M133.%20Clone%20Graph.java)
+3. [Number of Islands](23_Graph/M200.%20Number%20of%20Islands.java)
+4. [Detect A cycle in Undirected Graph using BFS](23_Graph/M207.%20Detect%20A%20cycle%20in%20Undirected%20Graph%20using%20BFS.java)
+5. [Detect A cycle in Undirected Graph using DFS](23_Graph/M207.%20Detect%20A%20cycle%20in%20Undirected%20Graph%20using%20DFS.java)
+6. [Detect A cycle in Directed Graph using BFS](23_Graph/M207.%20Detect%20A%20cycle%20in%20Directed%20Graph%20using%20BFS.java)
+7. [Detect A cycle in Directed Graph using DFS](23_Graph/M207.%20Detect%20A%20cycle%20in%20Directed%20Graph%20using%20DFS.java)
+8. [Is Graph Bipartite](23_Graph/M785.%20Is%20Graph%20Bipartite.java)
+9. [Topological sort or Kahn's algorithm](23_Graph/H-TUF-Topological%20sort%20or%20Kahn's%20algorithm.java)
 
 ### Graphs - II
 *Problems to be added*
@@ -316,9 +324,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Tree (Miscellaneous)(6/6 problems)
 - Binary Search Tree I (7/7 problems)
 - Binary Search Tree II (7/7 problems)
+- Graph I (9/9 problems)
 
 ### In Progress 🔄
-- Graph
 - Graph II
 - Dynamic Programming
 - Dynamic Programming II
