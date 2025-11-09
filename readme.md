@@ -247,7 +247,12 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 9. [Topological sort or Kahn's algorithm](23_Graph/H-TUF-Topological%20sort%20or%20Kahn's%20algorithm.java)
 
 ### Graphs - II
-*Problems to be added*
+1. [Find the MST weight - Prim's Algorithm](24_Graph-II/H-TUF-Find%20the%20MST%20weight%20-%20Prim's%20Algo.java)
+2. [Find the MST weight - Kruskal's Algorithm](24_Graph-II/H-TUF-Find%20the%20MST%20weight%20-%20%20Kruskal's%20Algo.java)
+3. [Floyd Warshall Algorithm](24_Graph-II/H-TUF-Floyd%20warshall%20algorithm.java)
+4. [Bellman-Ford Algorithm](24_Graph-II/H-TUF-Bellman%20ford%20algorithm.java)
+5. [Dijkstra's Algorithm](24_Graph-II/H-TUF-Dijkstra's%20algorithm.java)
+6. [Maximum Number of Non-Overlapping Substrings](24_Graph-II/H1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.java)
 
 ### Dynamic Programming - I
 *Problems to be added*
@@ -325,9 +330,9 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Search Tree I (7/7 problems)
 - Binary Search Tree II (7/7 problems)
 - Graph I (9/9 problems)
+- Graph II (6/6 problems)
 
-### In Progress 🔄
-- Graph II
+### In Progress 
 - Dynamic Programming
 - Dynamic Programming II
 - Trie
