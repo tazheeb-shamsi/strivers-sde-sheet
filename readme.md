@@ -255,10 +255,24 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [Maximum Number of Non-Overlapping Substrings](24_Graph-II/H1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.java)
 
 ### Dynamic Programming - I
-*Problems to be added*
+1. [Maximum Product Subarray](25_Dynamic%20Programming/M152.%20Maximum%20Product%20Subarray.java)
+2. [Longest Increasing Subsequence](25_Dynamic%20Programming/M300.%20Longest%20Increasing%20Subsequence.java)
+3. [Longest Common Subsequence](25_Dynamic%20Programming/M1143.%20Longest%20Common%20Subsequence.java)
+4. [Edit Distance](25_Dynamic%20Programming/M72.%20Edit%20Distance.java)
+5. [Maximum Sum Increasing Subsequence](25_Dynamic%20Programming/M-TUF-Maximum%20Sum%20Increasing%20Subsequence.java)
+6. [Matrix Chain Multiplication](25_Dynamic%20Programming/H-TUF-Matrix%20chain%20multiplication.java)
+7. [0-1 Knapsack](25_Dynamic%20Programming/H-TUF-0%20and%201%20Knapsack.java)
 
 ### Dynamic Programming - II
-*Problems to be added*
+1. [Minimum Path Sum](26_Dynamic%20Programming-II/M064.%20Minimum%20Path%20Sum.java)
+2. [Coin Change](26_Dynamic%20Programming-II/M322.%20Coin%20Change.java)
+3. [Word Break](26_Dynamic%20Programming-II/M139.%20Word%20Break.java)
+4. [Partition Equal Subset Sum](26_Dynamic%20Programming-II/M416.%20Partition%20Equal%20Subset%20Sum.java)
+5. [Minimum Cost to Cut a Stick](26_Dynamic%20Programming-II/H1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.java)
+6. [Palindrome Partitioning](26_Dynamic%20Programming-II/H-TUF-Palindrome%20partitioning.java)
+7. [Job Sequencing Problem](26_Dynamic%20Programming-II/M-TUF-Job%20sequencing%20Problem.java)
+8. [Super Egg Drop](26_Dynamic%20Programming-II/M-TUF-Super%20Egg%20Drop.java)
+9. [Word Break](26_Dynamic%20Programming-II/M-TUF-Word%20Break.java)
 
 ### Trie
 *Problems to be added*
@@ -331,14 +345,14 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Binary Search Tree II (7/7 problems)
 - Graph I (9/9 problems)
 - Graph II (6/6 problems)
+- Dynamic Programming (7/7 problems)
+- Dynamic Programming II (9/9 problems)
 
 ### In Progress 
-- Dynamic Programming
-- Dynamic Programming II
 - Trie
 
 ## License
-
+ 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
