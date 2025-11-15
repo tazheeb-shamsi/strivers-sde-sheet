@@ -1,21 +1,36 @@
 # Striver's SDE Sheet
 
+<div align="center">
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Language-Java-orange.svg)](#)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-189-brightgreen.svg)](#problem-set)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-191-brightgreen.svg)](#problem-set)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#how-to-contribute)
+[![GitHub stars](https://img.shields.io/github/stars/tazheeb-shamsi/strivers-sde-sheet?style=social)](https://github.com/tazheeb-shamsi/strivers-sde-sheet/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tazheeb-shamsi/strivers-sde-sheet?style=social)](https://github.com/tazheeb-shamsi/strivers-sde-sheet/network/members)
+
+</div>
 
 Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of carefully curated problems to help you prepare for software engineering interviews. It spans a wide range of topics, from basic data structures to advanced algorithms, with a focus on solving problems using different techniques. All solutions are implemented in Java and organized exactly as in the Striver/TUF sheet.
 
-> ℹ️ **Reference**: The original problem list can be found on [Striver's SDE Sheet (Codolio/TUF)](https://www.codingninjas.com/codolio/library/strivers-sde-sheet) which tracks the canonical 191 problems. This repository currently contains the 189 Java implementations completed so far.
+> ℹ️ **Reference**: The authoritative list lives on [Striver's SDE Sheet (TakeUforward/TUF)](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/), which currently tracks 191 problems and may expand as the official sheet evolves.
+
+> 🤝 **Call for Contributions**: Java is the primary implementation language here, but community solutions in **other languages are welcome**. Feel free to open PRs adding C++/Python/Javascript/Typescript/Go/etc. implementations alongside the Java ones—just follow the folder conventions when doing so.
 
 ## Repository Overview
 
 | Metric | Value |
 | --- | --- |
 | Programming language | Java |
-| Problems implemented | 189 / 191 |
+| Problems implemented | 191 / 191 |
 | Topics covered | 27 sections |
 | Status | ✅ Updated with latest solutions and README links |
+
+<!-- ## Latest Updates
+
+- To be Added
+- To be Added -->
 
 Use the sections below to jump to any topic and explore the problems with direct links to their Java solutions.
 
