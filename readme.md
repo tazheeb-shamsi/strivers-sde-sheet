@@ -275,7 +275,13 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 9. [Word Break](26_Dynamic%20Programming-II/M-TUF-Word%20Break.java)
 
 ### Trie
-*Problems to be added*
+1. [Implement Trie (Prefix Tree)](27_Trie/M208.%20Implement%20Trie%20(Prefix%20Tree).java)
+2. [Implement Trie II (Prefix Tree)](27_Trie/H-TUF-Implement%20Trie%20II%20(Prefix%20Tree).java)
+3. [Maximum XOR of Two Numbers in an Array](27_Trie/M421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.java)
+4. [Maximum XOR With an Element From Array](27_Trie/H1707.%20Maximum%20XOR%20With%20an%20Element%20From%20Array.java)
+5. [Number of Distinct Substrings in a String](27_Trie/M-TUF-Number%20of%20distinct%20substrings%20in%20a%20string.java)
+6. [Longest Word with All Prefixes](27_Trie/M-TUF-Longest%20Word%20with%20All%20Prefixes.java)
+7. [Power Set](27_Trie/M-TUF-Power%20Set.java)
 
 ## How to Contribute
 
@@ -347,9 +353,7 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Graph II (6/6 problems)
 - Dynamic Programming (7/7 problems)
 - Dynamic Programming II (9/9 problems)
-
-### In Progress 
-- Trie
+- Trie (7/7 problems)
 
 ## License
  
