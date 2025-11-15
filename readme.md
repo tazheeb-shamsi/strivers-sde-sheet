@@ -313,7 +313,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/strivers-sde-sheet.git
+git clone https://github.com/tazheeb-shamsi/strivers-sde-sheet.git
 cd strivers-sde-sheet
 ```
 
