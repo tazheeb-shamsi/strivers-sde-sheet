@@ -1,6 +1,23 @@
 # Striver's SDE Sheet
 
-Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of carefully curated problems to help you prepare for software engineering interviews. It spans a wide range of topics, from basic data structures to advanced algorithms, with a focus on solving problems using different techniques.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/Language-Java-orange.svg)](#)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-189-brightgreen.svg)](#problem-set)
+
+Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of carefully curated problems to help you prepare for software engineering interviews. It spans a wide range of topics, from basic data structures to advanced algorithms, with a focus on solving problems using different techniques. All solutions are implemented in Java and organized exactly as in the Striver/TUF sheet.
+
+> ℹ️ **Reference**: The original problem list can be found on [Striver's SDE Sheet (Codolio/TUF)](https://www.codingninjas.com/codolio/library/strivers-sde-sheet) which tracks the canonical 191 problems. This repository currently contains the 189 Java implementations completed so far.
+
+## Repository Overview
+
+| Metric | Value |
+| --- | --- |
+| Programming language | Java |
+| Problems implemented | 189 / 191 |
+| Topics covered | 27 sections |
+| Status | ✅ Updated with latest solutions and README links |
+
+Use the sections below to jump to any topic and explore the problems with direct links to their Java solutions.
 
 ## Table of Contents
 
@@ -45,6 +62,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 4. [Set Matrix Zeroes](01_Array/M073.%20Set%20Matrix%20Zeroes.java)
 5. [Sort Colors](01_Array/M075.%20Sort%20Colors.java)
 6. [Pascal's Triangle](01_Array/M118.%20Pascal's%20Triangle.java)
+7. [Set Mismatch](01_Array/E645.%20Set%20Mismatch.java)
 
 ### Arrays - II
 1. [Rotate Matrix](02_Array-II/M048.%20Rotate%20Matrix.java)
@@ -56,7 +74,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 
 ### Arrays - III
 1. [Majority Element](03_Array-III/E169.Majority%20Element.java)
-2. [Pow(x, n)](03_Array-III/M050.%20Pow(x,%20n).java)
+2. [Pow(x, n)](03_Array-III/M050.%20Pow%28x%2C%20n%29.java)
 3. [Grid Unique Paths](03_Array-III/M062.%20Grid%20Unique%20Paths.java)
 4. [Search a 2D Matrix](03_Array-III/M074.%20Search%20a%202D%20Matrix.java)
 5. [Majority Element II](03_Array-III/M229.Majority%20Element%20II.java)
@@ -115,7 +133,7 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 2. [Sudoku Solver](10_Recursion%20&%20Backtracking/H037.%20Sudoku%20Solver.java)
 3. [M-Coloring Problem](10_Recursion%20&%20Backtracking/M-GFG-M-Coloring%20Problem.java)
 4. [Rat in a Maze](10_Recursion%20&%20Backtracking/M-GFG-Rat%20in%20a%20Maze.java)
-5. [Word Break (print all ways)](10_Recursion%20&%20Backtracking/M-GFG-Word%20Break%20(print%20all%20ways).java)
+5. [Word Break (print all ways)](10_Recursion%20%26%20Backtracking/M-GFG-Word%20Break%20%28print%20all%20ways%29.java)
 6. [Print all permutations of a string or array](10_Recursion%20&%20Backtracking/M046.Print%20all%20permutations%20of%20a%20string%20or%20array.java)
 
 ### Binary Search
@@ -176,19 +194,19 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 6. [KMP Algorithm or LPS array](16_String-II/H-TUF-KMP%20Algorithm%20or%20LPS%20array.java)
 
 ### Binary Trees - I
-1. [Inorder Traversal](17_Binary%20Tree/E094.%20Inorder%20Traversal.java)
-2. [Preorder Traversal](17_Binary%20Tree/E144.%20Preorder%20Traversal.java)
-3. [Postorder Traversal](17_Binary%20Tree/E145.%20Postorder%20Traversal.java)
-4. [Morris - Inorder Traversal](17_Binary%20Tree/E094.%20Morris%20-%20Inorder%20Traversal.java)
-5. [Morris - Preorder Traversal](17_Binary%20Tree/E-TUF-Morris-Preorder%20Traversal.java)
-6. [Left view of Binary Tree](17_Binary%20Tree/M-TUF-Left%20view%20of%20Binary%20Tree.java)
-7. [Right view of Binary Tree](17_Binary%20Tree/M-TUF-Right%20view%20of%20Binary%20Tree.java)
-8. [Top view of Binary Tree](17_Binary%20Tree/M-TUF-Top%20view%20of%20Binary%20Tree.java)
-9. [Bottom view of Binary Tree](17_Binary%20Tree/M-TUF-Bottom%20view%20of%20Binary%20Tree.java)
-10. [Vertical order traversal](17_Binary%20Tree/H987.%20Vertical%20order%20traversal.java)
-11. [Maximum Width of Binary Tree](17_Binary%20Tree/M.662.%20Maximum%20Width%20of%20Binary%20Tree.java)
-12. [Preorder inorder postorder in a single traversal](17_Binary%20Tree/M-TUF-Preorder%20inorder%20postorder%20in%20a%20single%20traversal.java)
-13. [Print root to node path](17_Binary%20Tree/H-TUF-Print%20root%20to%20node%20path.java)
+1. [Inorder Traversal](17_Binary%20Tree-I/E094.%20Inorder%20Traversal.java)
+2. [Preorder Traversal](17_Binary%20Tree-I/E144.%20Preorder%20Traversal.java)
+3. [Postorder Traversal](17_Binary%20Tree-I/E145.%20Postorder%20Traversal.java)
+4. [Morris - Inorder Traversal](17_Binary%20Tree-I/E094.%20Morris%20-%20Inorder%20Traversal.java)
+5. [Morris - Preorder Traversal](17_Binary%20Tree-I/E-TUF-Morris-Preorder%20Traversal.java)
+6. [Left view of Binary Tree](17_Binary%20Tree-I/M-TUF-Left%20view%20of%20Binary%20Tree.java)
+7. [Right view of Binary Tree](17_Binary%20Tree-I/M-TUF-Right%20view%20of%20Binary%20Tree.java)
+8. [Top view of Binary Tree](17_Binary%20Tree-I/M-TUF-Top%20view%20of%20Binary%20Tree.java)
+9. [Bottom view of Binary Tree](17_Binary%20Tree-I/M-TUF-Bottom%20view%20of%20Binary%20Tree.java)
+10. [Vertical order traversal](17_Binary%20Tree-I/H987.%20Vertical%20order%20traversal.java)
+11. [Maximum Width of Binary Tree](17_Binary%20Tree-I/M.662.%20Maximum%20Width%20of%20Binary%20Tree.java)
+12. [Preorder inorder postorder in a single traversal](17_Binary%20Tree-I/M-TUF-Preorder%20inorder%20postorder%20in%20a%20single%20traversal.java)
+13. [Print root to node path](17_Binary%20Tree-I/H-TUF-Print%20root%20to%20node%20path.java)
 
 ### Binary Trees - II
 1. [Same Tree](18_Binary%20Tree-II/E100.%20Same%20Tree.java)
@@ -210,12 +228,12 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 7. [Mirror Tree](19_Binary%20Tree-III/M-TUF-Mirror%20Tree.java)
 
 ### Binary Trees (Miscellaneous)
-1. [Kth Largest Element in an Array](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M215.%20Kth%20Largest%20Element%20in%20an%20Array.java)
-2. [Find Median from Data Stream](22_Binary%20Search%20Tree-III%20(Miscellaneous)/H295.%20Find%20Median%20from%20Data%20Stream.java)
-3. [Kth Largest Element in a Stream](22_Binary%20Search%20Tree-III%20(Miscellaneous)/E703.%20Kth%20Largest%20Element%20in%20a%20Stream.java)
-4. [Flood Fill Algorithm](22_Binary%20Search%20Tree-III%20(Miscellaneous)/E733.%20Flood%20Fill%20Algorithm.java)
-5. [Flatten Binary Tree to Linked List](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.java)
-6. [Distinct Numbers in Window](22_Binary%20Search%20Tree-III%20(Miscellaneous)/M-InterviewBit-Distinct%20Numbers%20in%20Window.java)
+1. [Kth Largest Element in an Array](20_Binary%20Tree%20%28Miscellaneous%29/M215.%20Kth%20Largest%20Element%20in%20an%20Array.java)
+2. [Find Median from Data Stream](20_Binary%20Tree%20%28Miscellaneous%29/H295.%20Find%20Median%20from%20Data%20Stream.java)
+3. [Kth Largest Element in a Stream](20_Binary%20Tree%20%28Miscellaneous%29/E703.%20Kth%20Largest%20Element%20in%20a%20Stream.java)
+4. [Flood Fill Algorithm](20_Binary%20Tree%20%28Miscellaneous%29/E733.%20Flood%20Fill%20Algorithm.java)
+5. [Flatten Binary Tree to Linked List](20_Binary%20Tree%20%28Miscellaneous%29/M114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.java)
+6. [Distinct Numbers in Window](20_Binary%20Tree%20%28Miscellaneous%29/M-InterviewBit-Distinct%20Numbers%20in%20Window.java)
 
 ### Binary Search Trees - I
 1. [Search in a Binary Search Tree](21_Binary%20Search%20Tree-I/E700.%20Search%20in%20a%20Binary%20Search%20Tree.java)
@@ -273,10 +291,11 @@ Welcome to **Striver's SDE Sheet** repository! This sheet is a collection of car
 7. [Job Sequencing Problem](26_Dynamic%20Programming-II/M-TUF-Job%20sequencing%20Problem.java)
 8. [Super Egg Drop](26_Dynamic%20Programming-II/M-TUF-Super%20Egg%20Drop.java)
 9. [Word Break](26_Dynamic%20Programming-II/M-TUF-Word%20Break.java)
+10. [Ones and Zeroes](26_Dynamic%20Programming-II/M474.%20Ones%20and%20Zeroes.java)
 
 ### Trie
-1. [Implement Trie (Prefix Tree)](27_Trie/M208.%20Implement%20Trie%20(Prefix%20Tree).java)
-2. [Implement Trie II (Prefix Tree)](27_Trie/H-TUF-Implement%20Trie%20II%20(Prefix%20Tree).java)
+1. [Implement Trie (Prefix Tree)](27_Trie/M208.%20Implement%20Trie%20%28Prefix%20Tree%29.java)
+2. [Implement Trie II (Prefix Tree)](27_Trie/H-TUF-Implement%20Trie%20II%20%28Prefix%20Tree%29.java)
 3. [Maximum XOR of Two Numbers in an Array](27_Trie/M421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.java)
 4. [Maximum XOR With an Element From Array](27_Trie/H1707.%20Maximum%20XOR%20With%20an%20Element%20From%20Array.java)
 5. [Number of Distinct Substrings in a String](27_Trie/M-TUF-Number%20of%20distinct%20substrings%20in%20a%20string.java)
@@ -326,14 +345,13 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 ## Progress Tracking
 
 ### Completed Sections ✅
-- Arrays I (6/6 problems)
+- Arrays I (7/7 problems)
 - Arrays II (6/6 problems)
 - Arrays III (6/6 problems)
 - Arrays IV (6/6 problems)
 - Linked List I (6/6 problems)
 - Linked List II (6/6 problems)
 - Linked List & Arrays (6/6 problems)
-- Strings I (1/6 problems)
 - Greedy Algorithms (6/6 problems)
 - Recursion (6/6 problems)
 - Recursion & Backtracking (6/6 problems)
@@ -352,7 +370,7 @@ Navigate to any topic folder and start solving problems. Each Java file contains
 - Graph I (9/9 problems)
 - Graph II (6/6 problems)
 - Dynamic Programming (7/7 problems)
-- Dynamic Programming II (9/9 problems)
+- Dynamic Programming II (10/10 problems)
 - Trie (7/7 problems)
 
 ## License

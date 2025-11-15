@@ -9,7 +9,7 @@
 //                  | Skewed tree** (like a linked list): O(N) where H = N
 
 class Solution {
-    public class TreeNode {
+    public static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

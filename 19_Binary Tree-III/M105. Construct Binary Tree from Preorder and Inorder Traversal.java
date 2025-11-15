@@ -6,9 +6,6 @@
  * binary tree and inorder is the inorder traversal of the same tree, construct and return the binary tree.
  */
 
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public static class TreeNode {
         int val;

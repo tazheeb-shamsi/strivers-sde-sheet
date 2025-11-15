@@ -8,7 +8,7 @@
 //                   |  (O(log N) for balanced tree, O(N) for skewed tree)
 
 
-public class Solution {
+class Solution {
     public static class TreeNode {
         int val;
         TreeNode left;
